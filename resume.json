@@ -1,0 +1,28 @@
+{
+  "experience": [
+    {
+      "id": "exp_1",
+      "text": {
+        "p1": "increased server efficiency by 28% and reduced response times by 20% by developing a scalable API for game session management using restful principles that only and largely focus on stateless operation, Nginx and database optimization.",
+        "p2": "Optimized server-side matchmaking, reducing match latency by 25% and improving hardware utilization by 15% by implementing a geospatial + ANN pipeline using H3, HNSW, and LightGBM."},
+      "skills": ["Node.js", "REST API", "Backend", "restful principles", "Nginx", "Database Optimization", "Matchmaking Algorithms", "Geospatial Matching", "ANN", "H3", "HNSW", "LightGBM", "FAISS", "PostgreSQL", "PostGIS", "XGBoost", "LambdaMART", "Python", "Data Analysis", "Performance Optimization", "Vector embeddings", "ANN", "KNN", "PQ", "Docker", "Kubernetes", "CI/CD", "Prometheus/Grafana", "Log Analysis", "Performance Metrics", "Parallel Processing", "Query Optimization", "Data Caching", "Load Balancing", "Unit Testing", "Integration Testing", "Code Profiling", "Code Refactoring", "Scalability", "Reliability", "Security Best Practices", "Staged Deployment"]
+    },
+    {
+      "id": "exp_2",
+      "text": {
+        "p1": "Contributed to the development and maintenance of scalable RESTful APIs to support core gaming features, ensuring consistent performance across high traffic periods using Node.js, Nginx, and database optimization techniques.",
+        "p2": "improved game session stability, reduing crash rates by 18% through debugging, log analysis, and batch deployments in a colaborative and team environment."},
+        "p3": "Refined server-side matchmaking systems by analyzing telemetry data, cleaning and transforming datasets through ETL pipelines, and applying rule-based improvements; implemented Redis caching, PostgreSQL query optimization, and Nginx load balancing, resulting in a 10% improvement in matchmaking efficiency and a 12% reduction in server load.",
+        "p4": "Documented internal APIs and microservices, including Dockerized deployments, Redis caching layers, and PostgreSQL integrations; standardized API specifications and data pipelines, which improved onboarding speed for new team members and increased overall team productivity.",
+      "skills": ["Node.js", "REST API", "Backend", "restful principles", "Nginx", "Database Optimization", "Matchmaking Algorithms", "Geospatial Matching", "ANN", "H3", "HNSW", "LightGBM", "FAISS", "PostgreSQL", "PostGIS", "XGBoost", "LambdaMART", "Python", "Data Analysis", "Performance Optimization", "Vector embeddings", "ANN", "KNN", "PQ", "Docker", "Kubernetes", "CI/CD", "Prometheus/Grafana", "Log Analysis", "Performance Metrics", "Parallel Processing", "Query Optimization", "Data Caching", "Load Balancing", "Unit Testing", "Integration Testing", "Code Profiling", "Code Refactoring", "Scalability", "Reliability", "Security Best Practices", "Staged Deployment"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj_1",
+      "text": "Developed a Dockerized backend service",
+      "skills": ["Docker", "Python", "Backend"]
+    }
+  ],
+  "skills_section": []
+}

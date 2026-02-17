@@ -1,0 +1,40 @@
+We are seeking an experienced Systems Development Engineer to lead the development of automation software for our storage infrastructure. You will work across multiple teams and organizations to build scalable, reliable systems that power our distributed storage platform.
+
+Key job responsibilities
+
+ Lead the development of automation software across teams
+ Design and build scalable system-level software with focus on durability, availability, security, and diagnostics
+ Develop and maintain device drivers for Linux on ARM and x86 architectures
+ Debug and resolve Linux boot and runtime issues across different processor architectures
+ Build automation solutions using modern programming languages (Python, Ruby, Java, etc.)
+ Work with OS internals and storage subsystems in Linux-based environments
+ Collaborate with teams working on distributed storage systems and storage hardware
+ Troubleshoot complex system-level issues in production environments
+ Help design servers, make them more robust
+
+A day in the life
+
+Lead the Hardware Engineering (HWEng) System Development (SysDE) effort to define and build software and enabling tools; track and report progress. Work across internal HWEng teams, to ensure new storage hardware addresses data path and control path functionality needed by the EC2, EBS, and S3 teams. Work closely with internal customers to identify early any potential problems with on-boarding new storage servers into their ecosystem. Build, manage, and deploy pipelines for rapid deployment of new code changes to a variety of org-owned and customer-owned systems. Build monitoring tools and metrics to ensure hardware is running properly in both lab and production environments.
+
+About The Team
+
+System Development Engineers in AWS Hardware Engineering wear many hats. From orchestration tooling development, to hardware integration, to kernel driver debugging, we dive deep into problems across the breadth of AWS. The ideal candidate will have a proven track record of rapidly coming up to speed on new engineering disciplines, making impactful decisions within that space, and have experience gluing together components written by more specialized engineers to create a cohesive, well-running engineering product.
+
+Basic Qualifications
+
+ 2+ years of non-internship professional software development experience
+ 1+ years of designing or architecting (design patterns, reliability and scaling) of new and existing systems experience
+ 3+ years of administrative experience in networking, storage systems, operating systems and hands-on systems engineering experience
+ Knowledge of systems engineering fundamentals (networking, storage, operating systems)
+ Experience programming with at least one modern language such as C++, C#, Java, Python, Golang, PowerShell, Ruby
+
+Preferred Qualifications
+
+ Experience with PowerShell (preferred), Python, Ruby, or Java
+ Experience working in an Agile environment using the Scrum methodology
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
