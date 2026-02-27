@@ -4,7 +4,10 @@
       "id": "exp_1",
       "text": {
         "p1": "increased server efficiency by 28% and reduced response times by 20% by developing a scalable API for game session management using restful principles that only and largely focus on stateless operation, Nginx and database optimization.",
-        "p2": "Optimized server-side matchmaking, reducing match latency by 25% and improving hardware utilization by 15% by implementing a geospatial + ANN pipeline using H3, HNSW, and LightGBM."},
+        "p2": "Optimized server-side matchmaking, reducing match latency by 25% and improving hardware utilization by 15% by implementing a geospatial + ANN pipeline using H3, HNSW, and LightGBM.",
+        "p3": "Optimized server-side matchmaking, reducing match latency by 25% and improving hardware utilization by 15% by implementing a geospatial + ANN pipeline using H3, HNSW, and LightGBM.",
+        "p4": "Optimized server-side matchmaking, reducing match latency by 25% and improving hardware utilization by 15% by implementing a geospatial + ANN pipeline using H3, HNSW, and LightGBM.",
+        "p5": "Optimized server-side matchmaking, reducing match latency by 25% and improving hardware utilization by 15% by implementing a geospatial + ANN pipeline using H3, HNSW, and LightGBM."},
       "skills": ["Node.js", "REST API", "Backend", "restful principles", "Nginx", "Database Optimization", "Matchmaking Algorithms", "Geospatial Matching", "ANN", "H3", "HNSW", "LightGBM", "FAISS", "PostgreSQL", "PostGIS", "XGBoost", "LambdaMART", "Python", "Data Analysis", "Performance Optimization", "Vector embeddings", "ANN", "KNN", "PQ", "Docker", "Kubernetes", "CI/CD", "Prometheus/Grafana", "Log Analysis", "Performance Metrics", "Parallel Processing", "Query Optimization", "Data Caching", "Load Balancing", "Unit Testing", "Integration Testing", "Code Profiling", "Code Refactoring", "Scalability", "Reliability", "Security Best Practices", "Staged Deployment"]
     },
     {
